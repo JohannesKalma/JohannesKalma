@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohannesKalma
 - 👀 I’m interested in NodeJs, Javascript, HTML, css, Java, Redwood RunMyJobs
-- 🌱 I’m currently learning Java
+- 🌱 Always learning Java
 - 📫 How to reach me knilluz@gmail.com
 
 <!---
