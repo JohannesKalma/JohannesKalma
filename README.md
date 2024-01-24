@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @JohannesKalma
-- 👀 I’m interested in NodeJs, Javascript, HTML, css, Java, Redwood RunMyJobs
-- 🌱 Always learning Java
-- 📫 How to reach me knilluz@gmail.com
+Always learning Java
 
 <!---
 JohannesKalma/JohannesKalma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
